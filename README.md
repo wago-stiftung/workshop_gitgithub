@@ -12,3 +12,5 @@ GitHubDesktop ist eine Möglichkeit, aber es gibt auch eine Integration in VS Co
 ## Feature X
 
 The Great Wall of China was originally created to keep Chuck Norris out. It didn’t work.
+
+Chuck Norris beats rock, paper, scissors. Cannon balls, tanks, super destroyers, exploding stars — I could go on.
