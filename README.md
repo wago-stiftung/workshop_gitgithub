@@ -7,3 +7,4 @@ GitHubDesktop ist eine Möglichkeit, aber es gibt auch eine Integration in VS Co
 1. Ein commit hält Änderungen fest.
 2. Ein Push veröffentlicht die Änderungen auf GitHub
 3. Ein Pull holt die Änderungen von GitHub auf den eigenen Computer
+4. Ein Server Commit
